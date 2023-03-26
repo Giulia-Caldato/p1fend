@@ -1,0 +1,51 @@
+.box{
+  background-color: #A8FA9D;
+}
+.box-1{
+  background-color: #C82A1D;
+}
+h1{
+/*<h1>*/
+  color: dark-green;
+}
+h2{
+/*<h2>*/
+  color: dark-blue;
+}
+h3 {
+/*<h3>*/
+  color: red;
+}
+p{
+/*<p>*/
+  color: black;
+}
+quotes{
+  /*<quotes>*/
+  color: black;
+}
+a{
+  /*<a>*/
+  color: blue;
+}
+link{
+  /*<link>*/
+  color: blue;
+}
+.wrap-reverse li {
+  background: deepskyblue;
+}
+.flex-item {
+  background: tomato;
+}
+.photoBox{
+  background: #f8f8f1;
+}
+section{
+  /*<section>*/
+  color: brown;
+}
+article{
+  /*<article>*/
+  color: grey;
+}
